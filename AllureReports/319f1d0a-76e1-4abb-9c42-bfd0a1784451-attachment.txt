@@ -1,0 +1,8 @@
+[32mINFO    [0m root:test_Credkart_UserProfile.py:238 Testcase test_UserLogin001 is Started
+[32mINFO    [0m root:test_Credkart_UserProfile.py:239 Opening Browser
+[32mINFO    [0m root:test_Credkart_UserProfile.py:243 Click on Login Page Link
+[32mINFO    [0m root:test_Credkart_UserProfile.py:247 Enter Username:Credencetest@test.com
+[32mINFO    [0m root:test_Credkart_UserProfile.py:251 Enter Password:Credence@123
+[32mINFO    [0m root:test_Credkart_UserProfile.py:255 Click on Login Button
+[32mINFO    [0m root:test_Credkart_UserProfile.py:258 Testcase test_UserLogin001 is Passed
+[32mINFO    [0m root:test_Credkart_UserProfile.py:266 Testcase test_UserLogin001 is Completed

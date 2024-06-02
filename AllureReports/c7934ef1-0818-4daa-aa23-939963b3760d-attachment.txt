@@ -1,0 +1,14 @@
+[32mINFO    [0m root:test_Credkart_Checkout.py:22 Testcase test_CredkartCheckout01 is started
+[32mINFO    [0m root:test_Credkart_Checkout.py:23 Opening Browser
+[32mINFO    [0m root:test_Credkart_Checkout.py:28 Click on Login Page Link
+[32mINFO    [0m root:test_Credkart_Checkout.py:32 Enter Username:Credencetest@test.com
+[32mINFO    [0m root:test_Credkart_Checkout.py:36 Enter Password:Credence@123
+[32mINFO    [0m root:test_Credkart_Checkout.py:40 Click on Login Button
+[32mINFO    [0m root:test_Credkart_Checkout.py:42 Click on Product to Buy
+[32mINFO    [0m root:test_Credkart_Checkout.py:45 Product Adding to cart
+[32mINFO    [0m root:test_Credkart_Checkout.py:48 Proceed To Checkout Page
+[32mINFO    [0m root:test_Credkart_Checkout.py:52 Enter FirstName:Kunal
+[32mINFO    [0m root:test_Credkart_Checkout.py:56 Enter LastName:Chahare
+[32mINFO    [0m root:test_Credkart_Checkout.py:60 Enter Phone:7972084731
+[32mINFO    [0m root:test_Credkart_Checkout.py:64 Enter Address:Dhanori
+[32mINFO    [0m root:test_Credkart_Checkout.py:68 Enter ZipCode:415115

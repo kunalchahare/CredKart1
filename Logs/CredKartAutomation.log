@@ -1,0 +1,396 @@
+2024-03-19 21:32:14,112 : INFO : root : test_CredkartCheckout01 : 22 : Testcase test_CredkartCheckout01 is started
+2024-03-19 21:32:14,113 : INFO : root : test_CredkartCheckout01 : 23 : Opening Browser
+2024-03-19 21:32:14,114 : INFO : root : test_CredkartCheckout01 : 28 : Click on Login Page Link
+2024-03-19 21:32:15,097 : INFO : root : test_CredkartCheckout01 : 32 : Enter Username:Credencetest@test.com
+2024-03-19 21:32:15,287 : INFO : root : test_CredkartCheckout01 : 36 : Enter Password:Credence@123
+2024-03-19 21:32:17,471 : INFO : root : test_CredkartCheckout01 : 40 : Click on Login Button
+2024-03-19 21:32:17,471 : INFO : root : test_CredkartCheckout01 : 42 : Click on Product to Buy
+2024-03-19 21:32:18,285 : INFO : root : test_CredkartCheckout01 : 45 : Product Adding to cart
+2024-03-19 21:32:19,516 : INFO : root : test_CredkartCheckout01 : 48 : Proceed To Checkout Page
+2024-03-19 21:32:21,736 : INFO : root : test_CredkartCheckout01 : 52 : Enter FirstName:Kunal
+2024-03-19 21:32:21,977 : INFO : root : test_CredkartCheckout01 : 56 : Enter LastName:Chahare
+2024-03-19 21:32:22,310 : INFO : root : test_CredkartCheckout01 : 60 : Enter Phone:7972084731
+2024-03-19 21:32:22,530 : INFO : root : test_CredkartCheckout01 : 64 : Enter Address:Dhanori
+2024-03-19 21:32:22,787 : INFO : root : test_CredkartCheckout01 : 68 : Enter ZipCode:415115
+2024-03-19 23:01:41,180 : INFO : root : test_CredkartCheckout01 : 22 : Testcase test_CredkartCheckout01 is started
+2024-03-19 23:01:41,180 : INFO : root : test_CredkartCheckout01 : 22 : Testcase test_CredkartCheckout01 is started
+2024-03-19 23:01:41,182 : INFO : root : test_CredkartCheckout01 : 23 : Opening Browser
+2024-03-19 23:01:41,182 : INFO : root : test_CredkartCheckout01 : 23 : Opening Browser
+2024-03-19 23:01:41,182 : INFO : root : test_CredkartCheckout01 : 28 : Click on Login Page Link
+2024-03-19 23:01:41,182 : INFO : root : test_CredkartCheckout01 : 28 : Click on Login Page Link
+2024-03-19 23:01:42,084 : INFO : root : test_CredkartCheckout01 : 32 : Enter Username:Credencetest@test.com
+2024-03-19 23:01:42,084 : INFO : root : test_CredkartCheckout01 : 32 : Enter Username:Credencetest@test.com
+2024-03-19 23:01:42,198 : INFO : root : test_CredkartCheckout01 : 36 : Enter Password:Credence@123
+2024-03-19 23:01:42,198 : INFO : root : test_CredkartCheckout01 : 36 : Enter Password:Credence@123
+2024-03-19 23:01:44,619 : INFO : root : test_CredkartCheckout01 : 40 : Click on Login Button
+2024-03-19 23:01:44,619 : INFO : root : test_CredkartCheckout01 : 40 : Click on Login Button
+2024-03-19 23:01:44,620 : INFO : root : test_CredkartCheckout01 : 42 : Click on Product to Buy
+2024-03-19 23:01:44,620 : INFO : root : test_CredkartCheckout01 : 42 : Click on Product to Buy
+2024-03-19 23:01:45,317 : INFO : root : test_CredkartCheckout01 : 45 : Product Adding to cart
+2024-03-19 23:01:45,317 : INFO : root : test_CredkartCheckout01 : 45 : Product Adding to cart
+2024-03-19 23:01:46,603 : INFO : root : test_CredkartCheckout01 : 48 : Proceed To Checkout Page
+2024-03-19 23:01:46,603 : INFO : root : test_CredkartCheckout01 : 48 : Proceed To Checkout Page
+2024-03-19 23:01:48,323 : INFO : root : test_CredkartCheckout01 : 52 : Enter FirstName:Kunal
+2024-03-19 23:01:48,323 : INFO : root : test_CredkartCheckout01 : 52 : Enter FirstName:Kunal
+2024-03-19 23:01:48,431 : INFO : root : test_CredkartCheckout01 : 56 : Enter LastName:Chahare
+2024-03-19 23:01:48,431 : INFO : root : test_CredkartCheckout01 : 56 : Enter LastName:Chahare
+2024-03-19 23:01:48,543 : INFO : root : test_CredkartCheckout01 : 60 : Enter Phone:7972084731
+2024-03-19 23:01:48,543 : INFO : root : test_CredkartCheckout01 : 60 : Enter Phone:7972084731
+2024-03-19 23:01:48,638 : INFO : root : test_CredkartCheckout01 : 64 : Enter Address:Dhanori
+2024-03-19 23:01:48,638 : INFO : root : test_CredkartCheckout01 : 64 : Enter Address:Dhanori
+2024-03-19 23:01:48,746 : INFO : root : test_CredkartCheckout01 : 68 : Enter ZipCode:415115
+2024-03-19 23:01:48,746 : INFO : root : test_CredkartCheckout01 : 68 : Enter ZipCode:415115
+2024-03-19 23:02:16,081 : INFO : root : test_UserLogin001 : 237 : Testcase test_UserLogin001 is Started
+2024-03-19 23:02:16,081 : INFO : root : test_UserLogin001 : 237 : Testcase test_UserLogin001 is Started
+2024-03-19 23:02:16,082 : INFO : root : test_UserLogin001 : 238 : Opening Browser
+2024-03-19 23:02:16,082 : INFO : root : test_UserLogin001 : 238 : Opening Browser
+2024-03-19 23:02:16,082 : INFO : root : test_UserLogin001 : 242 : Click on Login Page Link
+2024-03-19 23:02:16,082 : INFO : root : test_UserLogin001 : 242 : Click on Login Page Link
+2024-03-19 23:02:19,446 : INFO : root : test_UserLogin001 : 246 : Enter Username:Credencetest@test.com
+2024-03-19 23:02:19,446 : INFO : root : test_UserLogin001 : 246 : Enter Username:Credencetest@test.com
+2024-03-19 23:02:35,587 : INFO : root : test_UserRegistration002 : 269 : Testcase test_UserRegistration002 is Started
+2024-03-19 23:02:35,587 : INFO : root : test_UserRegistration002 : 269 : Testcase test_UserRegistration002 is Started
+2024-03-19 23:02:35,588 : INFO : root : test_UserRegistration002 : 270 : Opening Browser
+2024-03-19 23:02:35,588 : INFO : root : test_UserRegistration002 : 270 : Opening Browser
+2024-03-19 23:02:38,202 : INFO : root : test_UserRegistration002 : 276 : Click on Registration Page Link
+2024-03-19 23:02:38,202 : INFO : root : test_UserRegistration002 : 276 : Click on Registration Page Link
+2024-03-19 23:02:38,309 : INFO : root : test_UserRegistration002 : 279 : Entering Name: Payal
+2024-03-19 23:02:38,309 : INFO : root : test_UserRegistration002 : 279 : Entering Name: Payal
+2024-03-19 23:02:38,438 : INFO : root : test_UserRegistration002 : 283 : Generating Email
+2024-03-19 23:02:38,438 : INFO : root : test_UserRegistration002 : 283 : Generating Email
+2024-03-19 23:02:38,571 : INFO : root : test_UserRegistration002 : 287 : Entering Password 111213
+2024-03-19 23:02:38,571 : INFO : root : test_UserRegistration002 : 287 : Entering Password 111213
+2024-03-19 23:02:38,687 : INFO : root : test_UserRegistration002 : 290 : Confirming Password 111213
+2024-03-19 23:02:38,687 : INFO : root : test_UserRegistration002 : 290 : Confirming Password 111213
+2024-03-19 23:02:41,120 : INFO : root : test_UserRegistration002 : 293 : Click on Register Button
+2024-03-19 23:02:41,120 : INFO : root : test_UserRegistration002 : 293 : Click on Register Button
+2024-03-19 23:02:41,147 : INFO : root : test_UserRegistration002 : 296 : Testcase test_UserRegistration002 is Passed
+2024-03-19 23:02:41,147 : INFO : root : test_UserRegistration002 : 296 : Testcase test_UserRegistration002 is Passed
+2024-03-19 23:02:41,276 : INFO : root : test_UserRegistration002 : 304 : Testcase test_UserRegistration002 is Completed
+2024-03-19 23:02:41,276 : INFO : root : test_UserRegistration002 : 304 : Testcase test_UserRegistration002 is Completed
+2024-03-19 23:06:49,869 : INFO : root : test_UserLogin001 : 237 : Testcase test_UserLogin001 is Started
+2024-03-19 23:06:49,870 : INFO : root : test_UserLogin001 : 238 : Opening Browser
+2024-03-19 23:06:49,870 : INFO : root : test_UserLogin001 : 242 : Click on Login Page Link
+2024-03-19 23:06:51,193 : INFO : root : test_UserLogin001 : 246 : Enter Username:Credencetest@test.com
+2024-03-19 23:07:09,438 : INFO : root : test_UserLogin001 : 237 : Testcase test_UserLogin001 is Started
+2024-03-19 23:07:09,438 : INFO : root : test_UserLogin001 : 238 : Opening Browser
+2024-03-19 23:07:09,438 : INFO : root : test_UserLogin001 : 242 : Click on Login Page Link
+2024-03-19 23:07:10,773 : INFO : root : test_UserLogin001 : 246 : Enter Username:Credencetest@test.com
+2024-03-19 23:07:19,657 : INFO : root : test_UserRegistration002 : 269 : Testcase test_UserRegistration002 is Started
+2024-03-19 23:07:19,657 : INFO : root : test_UserRegistration002 : 270 : Opening Browser
+2024-03-19 23:07:20,839 : INFO : root : test_UserRegistration002 : 276 : Click on Registration Page Link
+2024-03-19 23:07:20,936 : INFO : root : test_UserRegistration002 : 279 : Entering Name: Payal
+2024-03-19 23:07:21,079 : INFO : root : test_UserRegistration002 : 283 : Generating Email
+2024-03-19 23:07:21,172 : INFO : root : test_UserRegistration002 : 287 : Entering Password 111213
+2024-03-19 23:07:21,264 : INFO : root : test_UserRegistration002 : 290 : Confirming Password 111213
+2024-03-19 23:07:23,647 : INFO : root : test_UserRegistration002 : 293 : Click on Register Button
+2024-03-19 23:07:23,664 : INFO : root : test_UserRegistration002 : 296 : Testcase test_UserRegistration002 is Passed
+2024-03-19 23:07:23,759 : INFO : root : test_UserRegistration002 : 304 : Testcase test_UserRegistration002 is Completed
+2024-03-19 23:08:57,784 : INFO : root : test_UserLogin001 : 237 : Testcase test_UserLogin001 is Started
+2024-03-19 23:08:57,784 : INFO : root : test_UserLogin001 : 238 : Opening Browser
+2024-03-19 23:08:57,785 : INFO : root : test_UserLogin001 : 242 : Click on Login Page Link
+2024-03-19 23:08:58,626 : INFO : root : test_UserLogin001 : 246 : Enter Username:Credencetest@test.com
+2024-03-19 23:09:05,738 : INFO : root : test_UserRegistration002 : 269 : Testcase test_UserRegistration002 is Started
+2024-03-19 23:09:05,739 : INFO : root : test_UserRegistration002 : 270 : Opening Browser
+2024-03-19 23:09:18,143 : INFO : root : test_UserRegistration002 : 276 : Click on Registration Page Link
+2024-03-19 23:09:18,223 : INFO : root : test_UserRegistration002 : 279 : Entering Name: Payal
+2024-03-19 23:09:18,329 : INFO : root : test_UserRegistration002 : 283 : Generating Email
+2024-03-19 23:09:18,420 : INFO : root : test_UserRegistration002 : 287 : Entering Password 111213
+2024-03-19 23:09:18,509 : INFO : root : test_UserRegistration002 : 290 : Confirming Password 111213
+2024-03-19 23:09:20,435 : INFO : root : test_UserRegistration002 : 293 : Click on Register Button
+2024-03-19 23:09:20,455 : INFO : root : test_UserRegistration002 : 296 : Testcase test_UserRegistration002 is Passed
+2024-03-19 23:09:20,556 : INFO : root : test_UserRegistration002 : 304 : Testcase test_UserRegistration002 is Completed
+2024-03-19 23:11:14,393 : INFO : root : test_UserLogin001 : 237 : Testcase test_UserLogin001 is Started
+2024-03-19 23:11:14,393 : INFO : root : test_UserLogin001 : 238 : Opening Browser
+2024-03-19 23:11:14,393 : INFO : root : test_UserLogin001 : 242 : Click on Login Page Link
+2024-03-19 23:11:16,310 : INFO : root : test_UserLogin001 : 246 : Enter Username:Credencetest@test.com
+2024-03-19 23:11:25,704 : INFO : root : test_UserRegistration002 : 269 : Testcase test_UserRegistration002 is Started
+2024-03-19 23:11:25,704 : INFO : root : test_UserRegistration002 : 270 : Opening Browser
+2024-03-19 23:11:26,893 : INFO : root : test_UserRegistration002 : 276 : Click on Registration Page Link
+2024-03-19 23:11:26,978 : INFO : root : test_UserRegistration002 : 279 : Entering Name: Payal
+2024-03-19 23:11:27,115 : INFO : root : test_UserRegistration002 : 283 : Generating Email
+2024-03-19 23:11:27,217 : INFO : root : test_UserRegistration002 : 287 : Entering Password 111213
+2024-03-19 23:11:27,325 : INFO : root : test_UserRegistration002 : 290 : Confirming Password 111213
+2024-03-19 23:11:29,499 : INFO : root : test_UserRegistration002 : 293 : Click on Register Button
+2024-03-19 23:11:29,521 : INFO : root : test_UserRegistration002 : 296 : Testcase test_UserRegistration002 is Passed
+2024-03-19 23:11:29,621 : INFO : root : test_UserRegistration002 : 304 : Testcase test_UserRegistration002 is Completed
+2024-03-19 23:12:42,199 : INFO : root : test_UserLogin001 : 237 : Testcase test_UserLogin001 is Started
+2024-03-19 23:12:42,199 : INFO : root : test_UserLogin001 : 238 : Opening Browser
+2024-03-19 23:12:42,200 : INFO : root : test_UserLogin001 : 242 : Click on Login Page Link
+2024-03-19 23:12:43,246 : INFO : root : test_UserLogin001 : 246 : Enter Username:Credencetest@test.com
+2024-03-19 23:13:03,842 : INFO : root : test_UserRegistration002 : 269 : Testcase test_UserRegistration002 is Started
+2024-03-19 23:13:03,843 : INFO : root : test_UserRegistration002 : 270 : Opening Browser
+2024-03-19 23:13:21,450 : INFO : root : test_UserRegistration002 : 276 : Click on Registration Page Link
+2024-03-19 23:13:21,605 : INFO : root : test_UserRegistration002 : 279 : Entering Name: Payal
+2024-03-19 23:13:21,873 : INFO : root : test_UserRegistration002 : 283 : Generating Email
+2024-03-19 23:13:22,073 : INFO : root : test_UserRegistration002 : 287 : Entering Password 111213
+2024-03-19 23:13:22,221 : INFO : root : test_UserRegistration002 : 290 : Confirming Password 111213
+2024-03-19 23:13:24,473 : INFO : root : test_UserRegistration002 : 293 : Click on Register Button
+2024-03-19 23:13:24,617 : INFO : root : test_UserRegistration002 : 296 : Testcase test_UserRegistration002 is Passed
+2024-03-19 23:13:24,917 : INFO : root : test_UserRegistration002 : 304 : Testcase test_UserRegistration002 is Completed
+2024-03-19 23:14:31,935 : INFO : root : test_UserLogin001 : 237 : Testcase test_UserLogin001 is Started
+2024-03-19 23:14:31,937 : INFO : root : test_UserLogin001 : 238 : Opening Browser
+2024-03-19 23:14:31,938 : INFO : root : test_UserLogin001 : 242 : Click on Login Page Link
+2024-03-19 23:14:33,505 : INFO : root : test_UserLogin001 : 246 : Enter Username:Credencetest@test.com
+2024-03-19 23:14:33,673 : INFO : root : test_UserLogin001 : 250 : Enter Password:Credence@123
+2024-03-19 23:14:36,048 : INFO : root : test_UserLogin001 : 254 : Click on Login Button
+2024-03-19 23:14:36,150 : INFO : root : test_UserLogin001 : 257 : Testcase test_UserLogin001 is Passed
+2024-03-19 23:14:36,442 : INFO : root : test_UserLogin001 : 265 : Testcase test_UserLogin001 is Completed
+2024-03-19 23:14:50,475 : INFO : root : test_UserRegistration002 : 269 : Testcase test_UserRegistration002 is Started
+2024-03-19 23:14:50,475 : INFO : root : test_UserRegistration002 : 270 : Opening Browser
+2024-03-19 23:14:51,368 : INFO : root : test_UserRegistration002 : 276 : Click on Registration Page Link
+2024-03-19 23:14:51,511 : INFO : root : test_UserRegistration002 : 279 : Entering Name: Payal
+2024-03-19 23:14:51,776 : INFO : root : test_UserRegistration002 : 283 : Generating Email
+2024-03-19 23:14:52,006 : INFO : root : test_UserRegistration002 : 287 : Entering Password 111213
+2024-03-19 23:14:52,139 : INFO : root : test_UserRegistration002 : 290 : Confirming Password 111213
+2024-03-19 23:14:54,642 : INFO : root : test_UserRegistration002 : 293 : Click on Register Button
+2024-03-19 23:14:54,721 : INFO : root : test_UserRegistration002 : 296 : Testcase test_UserRegistration002 is Passed
+2024-03-19 23:14:54,991 : INFO : root : test_UserRegistration002 : 304 : Testcase test_UserRegistration002 is Completed
+2024-03-19 23:18:36,085 : INFO : root : test_UserLogin001 : 237 : Testcase test_UserLogin001 is Started
+2024-03-19 23:18:36,085 : INFO : root : test_UserLogin001 : 238 : Opening Browser
+2024-03-19 23:18:36,085 : INFO : root : test_UserLogin001 : 242 : Click on Login Page Link
+2024-03-19 23:18:37,604 : INFO : root : test_UserLogin001 : 246 : Enter Username:Credencetest@test.com
+2024-03-19 23:18:37,777 : INFO : root : test_UserLogin001 : 250 : Enter Password:Credence@123
+2024-03-19 23:18:39,962 : INFO : root : test_UserLogin001 : 254 : Click on Login Button
+2024-03-19 23:18:40,063 : INFO : root : test_UserLogin001 : 257 : Testcase test_UserLogin001 is Passed
+2024-03-19 23:18:40,409 : INFO : root : test_UserLogin001 : 265 : Testcase test_UserLogin001 is Completed
+2024-03-19 23:18:54,270 : INFO : root : test_UserRegistration002 : 269 : Testcase test_UserRegistration002 is Started
+2024-03-19 23:18:54,271 : INFO : root : test_UserRegistration002 : 270 : Opening Browser
+2024-03-19 23:18:55,109 : INFO : root : test_UserRegistration002 : 276 : Click on Registration Page Link
+2024-03-19 23:18:55,246 : INFO : root : test_UserRegistration002 : 279 : Entering Name: Payal
+2024-03-19 23:18:55,497 : INFO : root : test_UserRegistration002 : 283 : Generating Email
+2024-03-19 23:18:55,696 : INFO : root : test_UserRegistration002 : 287 : Entering Password 111213
+2024-03-19 23:18:55,858 : INFO : root : test_UserRegistration002 : 290 : Confirming Password 111213
+2024-03-19 23:18:58,292 : INFO : root : test_UserRegistration002 : 293 : Click on Register Button
+2024-03-19 23:18:58,356 : INFO : root : test_UserRegistration002 : 296 : Testcase test_UserRegistration002 is Passed
+2024-03-19 23:18:58,626 : INFO : root : test_UserRegistration002 : 304 : Testcase test_UserRegistration002 is Completed
+2024-03-19 23:19:49,043 : INFO : root : test_UserLogin001 : 237 : Testcase test_UserLogin001 is Started
+2024-03-19 23:19:49,043 : INFO : root : test_UserLogin001 : 238 : Opening Browser
+2024-03-19 23:19:49,044 : INFO : root : test_UserLogin001 : 242 : Click on Login Page Link
+2024-03-19 23:19:49,935 : INFO : root : test_UserLogin001 : 246 : Enter Username:Credencetest@test.com
+2024-03-19 23:19:50,046 : INFO : root : test_UserLogin001 : 250 : Enter Password:Credence@123
+2024-03-19 23:19:52,337 : INFO : root : test_UserLogin001 : 254 : Click on Login Button
+2024-03-19 23:19:52,384 : INFO : root : test_UserLogin001 : 257 : Testcase test_UserLogin001 is Passed
+2024-03-19 23:19:52,516 : INFO : root : test_UserLogin001 : 265 : Testcase test_UserLogin001 is Completed
+2024-03-19 23:20:00,357 : INFO : root : test_UserRegistration002 : 269 : Testcase test_UserRegistration002 is Started
+2024-03-19 23:20:00,357 : INFO : root : test_UserRegistration002 : 270 : Opening Browser
+2024-03-19 23:20:01,099 : INFO : root : test_UserRegistration002 : 276 : Click on Registration Page Link
+2024-03-19 23:20:01,185 : INFO : root : test_UserRegistration002 : 279 : Entering Name: Payal
+2024-03-19 23:20:01,297 : INFO : root : test_UserRegistration002 : 283 : Generating Email
+2024-03-19 23:20:01,390 : INFO : root : test_UserRegistration002 : 287 : Entering Password 111213
+2024-03-19 23:20:01,478 : INFO : root : test_UserRegistration002 : 290 : Confirming Password 111213
+2024-03-19 23:20:04,838 : INFO : root : test_UserRegistration002 : 293 : Click on Register Button
+2024-03-19 23:20:04,857 : INFO : root : test_UserRegistration002 : 296 : Testcase test_UserRegistration002 is Passed
+2024-03-19 23:20:04,969 : INFO : root : test_UserRegistration002 : 304 : Testcase test_UserRegistration002 is Completed
+2024-03-21 14:11:42,508 : WARNING : selenium.webdriver.common.selenium_manager : run : 149 : Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event): operation timed out
+2024-03-21 14:11:42,508 : WARNING : selenium.webdriver.common.selenium_manager : run : 149 : Error sending stats to Plausible: error sending request for url (https://plausible.io/api/event): operation timed out
+2024-03-21 14:11:51,918 : INFO : root : test_CredkartCheckout01 : 22 : Testcase test_CredkartCheckout01 is started
+2024-03-21 14:11:51,918 : INFO : root : test_CredkartCheckout01 : 22 : Testcase test_CredkartCheckout01 is started
+2024-03-21 14:11:51,918 : INFO : root : test_CredkartCheckout01 : 23 : Opening Browser
+2024-03-21 14:11:51,918 : INFO : root : test_CredkartCheckout01 : 23 : Opening Browser
+2024-03-21 14:11:51,918 : INFO : root : test_CredkartCheckout01 : 28 : Click on Login Page Link
+2024-03-21 14:11:51,918 : INFO : root : test_CredkartCheckout01 : 28 : Click on Login Page Link
+2024-03-21 14:11:53,409 : INFO : root : test_CredkartCheckout01 : 32 : Enter Username:Credencetest@test.com
+2024-03-21 14:11:53,409 : INFO : root : test_CredkartCheckout01 : 32 : Enter Username:Credencetest@test.com
+2024-03-21 14:11:53,543 : INFO : root : test_CredkartCheckout01 : 36 : Enter Password:Credence@123
+2024-03-21 14:11:53,543 : INFO : root : test_CredkartCheckout01 : 36 : Enter Password:Credence@123
+2024-03-21 14:11:55,995 : INFO : root : test_CredkartCheckout01 : 40 : Click on Login Button
+2024-03-21 14:11:55,995 : INFO : root : test_CredkartCheckout01 : 40 : Click on Login Button
+2024-03-21 14:11:55,996 : INFO : root : test_CredkartCheckout01 : 42 : Click on Product to Buy
+2024-03-21 14:11:55,996 : INFO : root : test_CredkartCheckout01 : 42 : Click on Product to Buy
+2024-03-21 14:11:56,742 : INFO : root : test_CredkartCheckout01 : 45 : Product Adding to cart
+2024-03-21 14:11:56,742 : INFO : root : test_CredkartCheckout01 : 45 : Product Adding to cart
+2024-03-21 14:11:58,036 : INFO : root : test_CredkartCheckout01 : 48 : Proceed To Checkout Page
+2024-03-21 14:11:58,036 : INFO : root : test_CredkartCheckout01 : 48 : Proceed To Checkout Page
+2024-03-21 14:12:00,425 : INFO : root : test_CredkartCheckout01 : 52 : Enter FirstName:Kunal
+2024-03-21 14:12:00,425 : INFO : root : test_CredkartCheckout01 : 52 : Enter FirstName:Kunal
+2024-03-21 14:12:00,562 : INFO : root : test_CredkartCheckout01 : 56 : Enter LastName:Chahare
+2024-03-21 14:12:00,562 : INFO : root : test_CredkartCheckout01 : 56 : Enter LastName:Chahare
+2024-03-21 14:12:00,691 : INFO : root : test_CredkartCheckout01 : 60 : Enter Phone:7972084731
+2024-03-21 14:12:00,691 : INFO : root : test_CredkartCheckout01 : 60 : Enter Phone:7972084731
+2024-03-21 14:12:00,810 : INFO : root : test_CredkartCheckout01 : 64 : Enter Address:Dhanori
+2024-03-21 14:12:00,810 : INFO : root : test_CredkartCheckout01 : 64 : Enter Address:Dhanori
+2024-03-21 14:12:00,972 : INFO : root : test_CredkartCheckout01 : 68 : Enter ZipCode:415115
+2024-03-21 14:12:00,972 : INFO : root : test_CredkartCheckout01 : 68 : Enter ZipCode:415115
+2024-03-21 14:12:17,393 : INFO : root : test_UserLogin001 : 237 : Testcase test_UserLogin001 is Started
+2024-03-21 14:12:17,393 : INFO : root : test_UserLogin001 : 237 : Testcase test_UserLogin001 is Started
+2024-03-21 14:12:17,394 : INFO : root : test_UserLogin001 : 238 : Opening Browser
+2024-03-21 14:12:17,394 : INFO : root : test_UserLogin001 : 238 : Opening Browser
+2024-03-21 14:12:17,395 : INFO : root : test_UserLogin001 : 242 : Click on Login Page Link
+2024-03-21 14:12:17,395 : INFO : root : test_UserLogin001 : 242 : Click on Login Page Link
+2024-03-21 14:12:18,401 : INFO : root : test_UserLogin001 : 246 : Enter Username:Credencetest@test.com
+2024-03-21 14:12:18,401 : INFO : root : test_UserLogin001 : 246 : Enter Username:Credencetest@test.com
+2024-03-21 14:12:18,536 : INFO : root : test_UserLogin001 : 250 : Enter Password:Credence@123
+2024-03-21 14:12:18,536 : INFO : root : test_UserLogin001 : 250 : Enter Password:Credence@123
+2024-03-21 14:12:21,429 : INFO : root : test_UserLogin001 : 254 : Click on Login Button
+2024-03-21 14:12:21,429 : INFO : root : test_UserLogin001 : 254 : Click on Login Button
+2024-03-21 14:12:21,476 : INFO : root : test_UserLogin001 : 257 : Testcase test_UserLogin001 is Passed
+2024-03-21 14:12:21,476 : INFO : root : test_UserLogin001 : 257 : Testcase test_UserLogin001 is Passed
+2024-03-21 14:12:21,606 : INFO : root : test_UserLogin001 : 265 : Testcase test_UserLogin001 is Completed
+2024-03-21 14:12:21,606 : INFO : root : test_UserLogin001 : 265 : Testcase test_UserLogin001 is Completed
+2024-03-21 14:12:36,103 : INFO : root : test_UserRegistration002 : 269 : Testcase test_UserRegistration002 is Started
+2024-03-21 14:12:36,103 : INFO : root : test_UserRegistration002 : 269 : Testcase test_UserRegistration002 is Started
+2024-03-21 14:12:36,103 : INFO : root : test_UserRegistration002 : 270 : Opening Browser
+2024-03-21 14:12:36,103 : INFO : root : test_UserRegistration002 : 270 : Opening Browser
+2024-03-21 14:12:36,755 : INFO : root : test_UserRegistration002 : 276 : Click on Registration Page Link
+2024-03-21 14:12:36,755 : INFO : root : test_UserRegistration002 : 276 : Click on Registration Page Link
+2024-03-21 14:12:36,903 : INFO : root : test_UserRegistration002 : 279 : Entering Name: Payal
+2024-03-21 14:12:36,903 : INFO : root : test_UserRegistration002 : 279 : Entering Name: Payal
+2024-03-21 14:12:37,052 : INFO : root : test_UserRegistration002 : 283 : Generating Email
+2024-03-21 14:12:37,052 : INFO : root : test_UserRegistration002 : 283 : Generating Email
+2024-03-21 14:12:37,211 : INFO : root : test_UserRegistration002 : 287 : Entering Password 111213
+2024-03-21 14:12:37,211 : INFO : root : test_UserRegistration002 : 287 : Entering Password 111213
+2024-03-21 14:12:37,351 : INFO : root : test_UserRegistration002 : 290 : Confirming Password 111213
+2024-03-21 14:12:37,351 : INFO : root : test_UserRegistration002 : 290 : Confirming Password 111213
+2024-03-21 14:12:39,296 : INFO : root : test_UserRegistration002 : 293 : Click on Register Button
+2024-03-21 14:12:39,296 : INFO : root : test_UserRegistration002 : 293 : Click on Register Button
+2024-03-21 14:12:39,329 : INFO : root : test_UserRegistration002 : 296 : Testcase test_UserRegistration002 is Passed
+2024-03-21 14:12:39,329 : INFO : root : test_UserRegistration002 : 296 : Testcase test_UserRegistration002 is Passed
+2024-03-21 14:12:39,452 : INFO : root : test_UserRegistration002 : 304 : Testcase test_UserRegistration002 is Completed
+2024-03-21 14:12:39,452 : INFO : root : test_UserRegistration002 : 304 : Testcase test_UserRegistration002 is Completed
+2024-03-24 17:59:44,626 : INFO : root : test_UserLogin001 : 238 : Testcase test_UserLogin001 is Started
+2024-03-24 17:59:44,627 : INFO : root : test_UserLogin001 : 239 : Opening Browser
+2024-03-24 17:59:44,628 : INFO : root : test_UserLogin001 : 243 : Click on Login Page Link
+2024-03-24 17:59:45,852 : INFO : root : test_UserLogin001 : 247 : Enter Username:Credencetest@test.com
+2024-03-24 17:59:46,018 : INFO : root : test_UserLogin001 : 251 : Enter Password:Credence@123
+2024-03-24 17:59:48,132 : INFO : root : test_UserLogin001 : 255 : Click on Login Button
+2024-03-24 17:59:48,165 : INFO : root : test_UserLogin001 : 258 : Testcase test_UserLogin001 is Passed
+2024-03-24 17:59:48,303 : INFO : root : test_UserLogin001 : 266 : Testcase test_UserLogin001 is Completed
+2024-03-24 17:59:59,788 : INFO : root : test_UserRegistration002 : 270 : Testcase test_UserRegistration002 is Started
+2024-03-24 17:59:59,788 : INFO : root : test_UserRegistration002 : 271 : Opening Browser
+2024-03-24 18:00:00,862 : INFO : root : test_UserRegistration002 : 277 : Click on Registration Page Link
+2024-03-24 18:00:01,000 : INFO : root : test_UserRegistration002 : 280 : Entering Name: Payal
+2024-03-24 18:00:01,146 : INFO : root : test_UserRegistration002 : 284 : Generating Email
+2024-03-24 18:00:01,250 : INFO : root : test_UserRegistration002 : 288 : Entering Password 111213
+2024-03-24 18:00:01,365 : INFO : root : test_UserRegistration002 : 291 : Confirming Password 111213
+2024-03-24 18:00:03,188 : INFO : root : test_UserRegistration002 : 294 : Click on Register Button
+2024-03-24 18:00:03,207 : INFO : root : test_UserRegistration002 : 297 : Testcase test_UserRegistration002 is Passed
+2024-03-24 18:00:03,292 : INFO : root : test_UserRegistration002 : 305 : Testcase test_UserRegistration002 is Completed
+2024-03-25 12:40:31,886 : INFO : root : test_CredkartCheckout01 : 22 : Testcase test_CredkartCheckout01 is started
+2024-03-25 12:40:31,886 : INFO : root : test_CredkartCheckout01 : 22 : Testcase test_CredkartCheckout01 is started
+2024-03-25 12:40:31,887 : INFO : root : test_CredkartCheckout01 : 23 : Opening Browser
+2024-03-25 12:40:31,887 : INFO : root : test_CredkartCheckout01 : 23 : Opening Browser
+2024-03-25 12:40:31,888 : INFO : root : test_CredkartCheckout01 : 28 : Click on Login Page Link
+2024-03-25 12:40:31,888 : INFO : root : test_CredkartCheckout01 : 28 : Click on Login Page Link
+2024-03-25 12:40:32,407 : INFO : root : test_UserLogin001 : 238 : Testcase test_UserLogin001 is Started
+2024-03-25 12:40:32,407 : INFO : root : test_UserLogin001 : 238 : Testcase test_UserLogin001 is Started
+2024-03-25 12:40:32,408 : INFO : root : test_UserLogin001 : 239 : Opening Browser
+2024-03-25 12:40:32,408 : INFO : root : test_UserLogin001 : 239 : Opening Browser
+2024-03-25 12:40:32,408 : INFO : root : test_UserLogin001 : 243 : Click on Login Page Link
+2024-03-25 12:40:32,408 : INFO : root : test_UserLogin001 : 243 : Click on Login Page Link
+2024-03-25 12:40:33,265 : INFO : root : test_CredkartCheckout01 : 32 : Enter Username:Credencetest@test.com
+2024-03-25 12:40:33,265 : INFO : root : test_CredkartCheckout01 : 32 : Enter Username:Credencetest@test.com
+2024-03-25 12:40:33,486 : INFO : root : test_CredkartCheckout01 : 36 : Enter Password:Credence@123
+2024-03-25 12:40:33,486 : INFO : root : test_CredkartCheckout01 : 36 : Enter Password:Credence@123
+2024-03-25 12:40:34,233 : INFO : root : test_UserLogin001 : 247 : Enter Username:Credencetest@test.com
+2024-03-25 12:40:34,233 : INFO : root : test_UserLogin001 : 247 : Enter Username:Credencetest@test.com
+2024-03-25 12:40:34,510 : INFO : root : test_UserLogin001 : 251 : Enter Password:Credence@123
+2024-03-25 12:40:34,510 : INFO : root : test_UserLogin001 : 251 : Enter Password:Credence@123
+2024-03-25 12:40:35,728 : INFO : root : test_CredkartCheckout01 : 40 : Click on Login Button
+2024-03-25 12:40:35,728 : INFO : root : test_CredkartCheckout01 : 40 : Click on Login Button
+2024-03-25 12:40:35,729 : INFO : root : test_CredkartCheckout01 : 42 : Click on Product to Buy
+2024-03-25 12:40:35,729 : INFO : root : test_CredkartCheckout01 : 42 : Click on Product to Buy
+2024-03-25 12:40:36,733 : INFO : root : test_CredkartCheckout01 : 45 : Product Adding to cart
+2024-03-25 12:40:36,733 : INFO : root : test_CredkartCheckout01 : 45 : Product Adding to cart
+2024-03-25 12:40:37,216 : INFO : root : test_UserLogin001 : 255 : Click on Login Button
+2024-03-25 12:40:37,216 : INFO : root : test_UserLogin001 : 255 : Click on Login Button
+2024-03-25 12:40:37,316 : INFO : root : test_UserLogin001 : 258 : Testcase test_UserLogin001 is Passed
+2024-03-25 12:40:37,316 : INFO : root : test_UserLogin001 : 258 : Testcase test_UserLogin001 is Passed
+2024-03-25 12:40:37,631 : INFO : root : test_UserLogin001 : 266 : Testcase test_UserLogin001 is Completed
+2024-03-25 12:40:37,631 : INFO : root : test_UserLogin001 : 266 : Testcase test_UserLogin001 is Completed
+2024-03-25 12:40:38,092 : INFO : root : test_CredkartCheckout01 : 48 : Proceed To Checkout Page
+2024-03-25 12:40:38,092 : INFO : root : test_CredkartCheckout01 : 48 : Proceed To Checkout Page
+2024-03-25 12:40:39,489 : INFO : root : test_CredkartCheckout01 : 52 : Enter FirstName:Kunal
+2024-03-25 12:40:39,489 : INFO : root : test_CredkartCheckout01 : 52 : Enter FirstName:Kunal
+2024-03-25 12:40:39,814 : INFO : root : test_CredkartCheckout01 : 56 : Enter LastName:Chahare
+2024-03-25 12:40:39,814 : INFO : root : test_CredkartCheckout01 : 56 : Enter LastName:Chahare
+2024-03-25 12:40:40,080 : INFO : root : test_CredkartCheckout01 : 60 : Enter Phone:7972084731
+2024-03-25 12:40:40,080 : INFO : root : test_CredkartCheckout01 : 60 : Enter Phone:7972084731
+2024-03-25 12:40:40,282 : INFO : root : test_CredkartCheckout01 : 64 : Enter Address:Dhanori
+2024-03-25 12:40:40,282 : INFO : root : test_CredkartCheckout01 : 64 : Enter Address:Dhanori
+2024-03-25 12:40:40,484 : INFO : root : test_CredkartCheckout01 : 68 : Enter ZipCode:415115
+2024-03-25 12:40:40,484 : INFO : root : test_CredkartCheckout01 : 68 : Enter ZipCode:415115
+2024-03-25 12:40:50,844 : INFO : root : test_UserRegistration002 : 270 : Testcase test_UserRegistration002 is Started
+2024-03-25 12:40:50,844 : INFO : root : test_UserRegistration002 : 270 : Testcase test_UserRegistration002 is Started
+2024-03-25 12:40:50,844 : INFO : root : test_UserRegistration002 : 271 : Opening Browser
+2024-03-25 12:40:50,844 : INFO : root : test_UserRegistration002 : 271 : Opening Browser
+2024-03-25 12:40:51,525 : INFO : root : test_UserRegistration002 : 277 : Click on Registration Page Link
+2024-03-25 12:40:51,525 : INFO : root : test_UserRegistration002 : 277 : Click on Registration Page Link
+2024-03-25 12:40:51,808 : INFO : root : test_UserRegistration002 : 280 : Entering Name: Payal
+2024-03-25 12:40:51,808 : INFO : root : test_UserRegistration002 : 280 : Entering Name: Payal
+2024-03-25 12:40:52,069 : INFO : root : test_UserRegistration002 : 284 : Generating Email
+2024-03-25 12:40:52,069 : INFO : root : test_UserRegistration002 : 284 : Generating Email
+2024-03-25 12:40:52,254 : INFO : root : test_UserRegistration002 : 288 : Entering Password 111213
+2024-03-25 12:40:52,254 : INFO : root : test_UserRegistration002 : 288 : Entering Password 111213
+2024-03-25 12:40:52,378 : INFO : root : test_UserRegistration002 : 291 : Confirming Password 111213
+2024-03-25 12:40:52,378 : INFO : root : test_UserRegistration002 : 291 : Confirming Password 111213
+2024-03-25 12:40:54,059 : INFO : root : test_UserRegistration002 : 294 : Click on Register Button
+2024-03-25 12:40:54,059 : INFO : root : test_UserRegistration002 : 294 : Click on Register Button
+2024-03-25 12:40:54,157 : INFO : root : test_UserRegistration002 : 297 : Testcase test_UserRegistration002 is Passed
+2024-03-25 12:40:54,157 : INFO : root : test_UserRegistration002 : 297 : Testcase test_UserRegistration002 is Passed
+2024-03-25 12:40:54,490 : INFO : root : test_UserRegistration002 : 305 : Testcase test_UserRegistration002 is Completed
+2024-03-25 12:40:54,490 : INFO : root : test_UserRegistration002 : 305 : Testcase test_UserRegistration002 is Completed
+2024-06-01 07:58:28,808 : INFO : root : test_CredkartCheckout01 : 22 : Testcase test_CredkartCheckout01 is started
+2024-06-01 07:58:28,808 : INFO : root : test_CredkartCheckout01 : 22 : Testcase test_CredkartCheckout01 is started
+2024-06-01 07:58:28,810 : INFO : root : test_CredkartCheckout01 : 23 : Opening Browser
+2024-06-01 07:58:28,810 : INFO : root : test_CredkartCheckout01 : 23 : Opening Browser
+2024-06-01 07:58:28,810 : INFO : root : test_CredkartCheckout01 : 28 : Click on Login Page Link
+2024-06-01 07:58:28,810 : INFO : root : test_CredkartCheckout01 : 28 : Click on Login Page Link
+2024-06-01 07:58:30,021 : INFO : root : test_CredkartCheckout01 : 32 : Enter Username:Credencetest@test.com
+2024-06-01 07:58:30,021 : INFO : root : test_CredkartCheckout01 : 32 : Enter Username:Credencetest@test.com
+2024-06-01 07:58:30,313 : INFO : root : test_CredkartCheckout01 : 36 : Enter Password:Credence@123
+2024-06-01 07:58:30,313 : INFO : root : test_CredkartCheckout01 : 36 : Enter Password:Credence@123
+2024-06-01 07:58:32,447 : INFO : root : test_CredkartCheckout01 : 40 : Click on Login Button
+2024-06-01 07:58:32,447 : INFO : root : test_CredkartCheckout01 : 40 : Click on Login Button
+2024-06-01 07:58:32,449 : INFO : root : test_CredkartCheckout01 : 42 : Click on Product to Buy
+2024-06-01 07:58:32,449 : INFO : root : test_CredkartCheckout01 : 42 : Click on Product to Buy
+2024-06-01 07:58:33,472 : INFO : root : test_CredkartCheckout01 : 45 : Product Adding to cart
+2024-06-01 07:58:33,472 : INFO : root : test_CredkartCheckout01 : 45 : Product Adding to cart
+2024-06-01 07:58:34,578 : INFO : root : test_CredkartCheckout01 : 48 : Proceed To Checkout Page
+2024-06-01 07:58:34,578 : INFO : root : test_CredkartCheckout01 : 48 : Proceed To Checkout Page
+2024-06-01 07:58:36,393 : INFO : root : test_CredkartCheckout01 : 52 : Enter FirstName:Kunal
+2024-06-01 07:58:36,393 : INFO : root : test_CredkartCheckout01 : 52 : Enter FirstName:Kunal
+2024-06-01 07:58:36,691 : INFO : root : test_CredkartCheckout01 : 56 : Enter LastName:Chahare
+2024-06-01 07:58:36,691 : INFO : root : test_CredkartCheckout01 : 56 : Enter LastName:Chahare
+2024-06-01 07:58:36,972 : INFO : root : test_CredkartCheckout01 : 60 : Enter Phone:7972084731
+2024-06-01 07:58:36,972 : INFO : root : test_CredkartCheckout01 : 60 : Enter Phone:7972084731
+2024-06-01 07:58:37,161 : INFO : root : test_CredkartCheckout01 : 64 : Enter Address:Dhanori
+2024-06-01 07:58:37,161 : INFO : root : test_CredkartCheckout01 : 64 : Enter Address:Dhanori
+2024-06-01 07:58:37,433 : INFO : root : test_CredkartCheckout01 : 68 : Enter ZipCode:415115
+2024-06-01 07:58:37,433 : INFO : root : test_CredkartCheckout01 : 68 : Enter ZipCode:415115
+2024-06-01 07:58:48,371 : INFO : root : test_UserLogin001 : 238 : Testcase test_UserLogin001 is Started
+2024-06-01 07:58:48,371 : INFO : root : test_UserLogin001 : 238 : Testcase test_UserLogin001 is Started
+2024-06-01 07:58:48,372 : INFO : root : test_UserLogin001 : 239 : Opening Browser
+2024-06-01 07:58:48,372 : INFO : root : test_UserLogin001 : 239 : Opening Browser
+2024-06-01 07:58:48,372 : INFO : root : test_UserLogin001 : 243 : Click on Login Page Link
+2024-06-01 07:58:48,372 : INFO : root : test_UserLogin001 : 243 : Click on Login Page Link
+2024-06-01 07:58:49,751 : INFO : root : test_UserLogin001 : 247 : Enter Username:Credencetest@test.com
+2024-06-01 07:58:49,751 : INFO : root : test_UserLogin001 : 247 : Enter Username:Credencetest@test.com
+2024-06-01 07:58:50,220 : INFO : root : test_UserLogin001 : 251 : Enter Password:Credence@123
+2024-06-01 07:58:50,220 : INFO : root : test_UserLogin001 : 251 : Enter Password:Credence@123
+2024-06-01 07:58:52,177 : INFO : root : test_UserLogin001 : 255 : Click on Login Button
+2024-06-01 07:58:52,177 : INFO : root : test_UserLogin001 : 255 : Click on Login Button
+2024-06-01 07:58:52,372 : INFO : root : test_UserLogin001 : 258 : Testcase test_UserLogin001 is Passed
+2024-06-01 07:58:52,372 : INFO : root : test_UserLogin001 : 258 : Testcase test_UserLogin001 is Passed
+2024-06-01 07:58:52,693 : INFO : root : test_UserLogin001 : 266 : Testcase test_UserLogin001 is Completed
+2024-06-01 07:58:52,693 : INFO : root : test_UserLogin001 : 266 : Testcase test_UserLogin001 is Completed
+2024-06-01 07:59:02,888 : INFO : root : test_UserRegistration002 : 270 : Testcase test_UserRegistration002 is Started
+2024-06-01 07:59:02,888 : INFO : root : test_UserRegistration002 : 270 : Testcase test_UserRegistration002 is Started
+2024-06-01 07:59:02,889 : INFO : root : test_UserRegistration002 : 271 : Opening Browser
+2024-06-01 07:59:02,889 : INFO : root : test_UserRegistration002 : 271 : Opening Browser
+2024-06-01 07:59:03,895 : INFO : root : test_UserRegistration002 : 277 : Click on Registration Page Link
+2024-06-01 07:59:03,895 : INFO : root : test_UserRegistration002 : 277 : Click on Registration Page Link
+2024-06-01 07:59:04,389 : INFO : root : test_UserRegistration002 : 280 : Entering Name: Payal
+2024-06-01 07:59:04,389 : INFO : root : test_UserRegistration002 : 280 : Entering Name: Payal
+2024-06-01 07:59:04,819 : INFO : root : test_UserRegistration002 : 284 : Generating Email
+2024-06-01 07:59:04,819 : INFO : root : test_UserRegistration002 : 284 : Generating Email
+2024-06-01 07:59:05,041 : INFO : root : test_UserRegistration002 : 288 : Entering Password 111213
+2024-06-01 07:59:05,041 : INFO : root : test_UserRegistration002 : 288 : Entering Password 111213
+2024-06-01 07:59:05,212 : INFO : root : test_UserRegistration002 : 291 : Confirming Password 111213
+2024-06-01 07:59:05,212 : INFO : root : test_UserRegistration002 : 291 : Confirming Password 111213
+2024-06-01 07:59:07,384 : INFO : root : test_UserRegistration002 : 294 : Click on Register Button
+2024-06-01 07:59:07,384 : INFO : root : test_UserRegistration002 : 294 : Click on Register Button
+2024-06-01 07:59:07,503 : INFO : root : test_UserRegistration002 : 297 : Testcase test_UserRegistration002 is Passed
+2024-06-01 07:59:07,503 : INFO : root : test_UserRegistration002 : 297 : Testcase test_UserRegistration002 is Passed
+2024-06-01 07:59:07,814 : INFO : root : test_UserRegistration002 : 305 : Testcase test_UserRegistration002 is Completed
+2024-06-01 07:59:07,814 : INFO : root : test_UserRegistration002 : 305 : Testcase test_UserRegistration002 is Completed

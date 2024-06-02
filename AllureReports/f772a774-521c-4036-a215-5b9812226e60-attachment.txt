@@ -1,0 +1,10 @@
+[32mINFO    [0m root:test_Credkart_UserProfile.py:270 Testcase test_UserRegistration002 is Started
+[32mINFO    [0m root:test_Credkart_UserProfile.py:271 Opening Browser
+[32mINFO    [0m root:test_Credkart_UserProfile.py:277 Click on Registration Page Link
+[32mINFO    [0m root:test_Credkart_UserProfile.py:280 Entering Name: Payal
+[32mINFO    [0m root:test_Credkart_UserProfile.py:284 Generating Email
+[32mINFO    [0m root:test_Credkart_UserProfile.py:288 Entering Password 111213
+[32mINFO    [0m root:test_Credkart_UserProfile.py:291 Confirming Password 111213
+[32mINFO    [0m root:test_Credkart_UserProfile.py:294 Click on Register Button
+[32mINFO    [0m root:test_Credkart_UserProfile.py:297 Testcase test_UserRegistration002 is Passed
+[32mINFO    [0m root:test_Credkart_UserProfile.py:305 Testcase test_UserRegistration002 is Completed

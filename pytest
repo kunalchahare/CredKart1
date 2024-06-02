@@ -1,0 +1,20 @@
+============================= test session starts =============================
+platform win32 -- Python 3.12.1, pytest-8.0.2, pluggy-1.4.0 -- C:\Users\hp\AppData\Local\Programs\Python\Python312\python.exe
+cachedir: .pytest_cache
+metadata: {'Python': '3.12.1', 'Platform': 'Windows-10-10.0.19045-SP0', 'Packages': {'pytest': '8.0.2', 'pluggy': '1.4.0'}, 'Plugins': {'allure-pytest': '2.13.2', 'html': '4.1.1', 'metadata': '3.1.1', 'xdist': '3.5.0'}}
+rootdir: C:\Users\hp\PycharmProjects\Credkart_Pytest
+plugins: allure-pytest-2.13.2, html-4.1.1, metadata-3.1.1, xdist-3.5.0
+created: 2/2 workers
+2 workers [3 items]
+
+scheduling tests via LoadScheduling
+
+TestCases/test_Credkart_UserProfile.py::Test_UserProfile::test_UserRegistration002 
+TestCases/test_Credkart_UserProfile.py::Test_UserProfile::test_UserLogin001 
+[gw1] PASSED TestCases/test_Credkart_UserProfile.py::Test_UserProfile::test_UserRegistration002 
+[gw0] PASSED TestCases/test_Credkart_UserProfile.py::Test_UserProfile::test_UserLogin001 
+TestCases/test_Credkart_UserProfile1.py::Test_UserProfile::test_UserRegistration002 
+[gw0] PASSED TestCases/test_Credkart_UserProfile1.py::Test_UserProfile::test_UserRegistration002 
+
+- Generated html report: file:///C:/Users/hp/PycharmProjects/Credkart_Pytest/HtmlReports/report.html -
+============================= 3 passed in 35.69s ==============================
